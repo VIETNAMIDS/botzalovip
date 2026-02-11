@@ -1,0 +1,42 @@
+account_file: account.json
+login_qrcode: true
+qrcode_path: qr.png
+save_cookie: true
+prefix: /
+name_bot: bonz vips
+bot_id: "712905978506993838"
+admin_bot:
+  - "713653654953419438"
+  - "641034655730000300"
+owner_bot:
+  - "764450365581940909"
+  - "7626056543232390627"
+  - "8923496586113246432"
+  - "5600955156958461580"
+  - "6310961995589127075"
+  - "420203792419625186"
+  - "7780341272293784039"
+  - "3720267047674438118"
+support_bot:
+  - "1"
+  - "2"
+allow_private_command: true
+default_money: 0
+honorific_map:
+  "6310961995589127075": vợ iuu
+zca_js_config:
+  selfListen: true
+  checkUpdate: true
+  logging: true
+serpapi_key: ""
+google_cse:
+  api_key: AIzaSyBA_X0MLOAuRi-1_90C4uk-fF0-mxM-0Lw
+  cx: e0029f17b18774ea3
+openai_key: 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
+gemini_api_keys:
+  - AIzaSyC8eNsAZq56EMpARpACDHg4s1nFyWk41t8
+auto_response: true
+admin_only_mode: false
+command_only_mode: true
+bot_offline: false
+banned_users: []
