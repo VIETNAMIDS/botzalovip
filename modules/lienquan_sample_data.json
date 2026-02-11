@@ -1,0 +1,12 @@
+{
+    "image_path": "modules/data/lienquan/lienquan.jpg",
+    "version": "2.5.0",
+    "last_updated": "2024-10-22",
+    "total_accounts": 10,
+    "admin_settings": {
+        "max_accounts_per_request": 10,
+        "cooldown_seconds": 5,
+        "enable_reactions": true,
+        "enable_images": true
+    }
+}

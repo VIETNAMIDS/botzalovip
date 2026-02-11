@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# build output
+dist/
+build/
+.cache/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# system files
+.DS_Store
+Thumbs.db
+
+# allow build artifacts and dependencies inside zca-gwendev
+!zca-gwendev/dist/
+!zca-gwendev/dist/**
+!zca-gwendev/node_modules/
+!zca-gwendev/node_modules/**

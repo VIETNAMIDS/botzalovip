@@ -1,0 +1,64 @@
+{
+  "poems": [
+    {
+      "title": "Tình yêu",
+      "content": "Tình yêu như làn gió nhẹ\nThổi qua tim em mỗi đêm\nMang theo bao ước mơ\nVà những lời thầm thì"
+    },
+    {
+      "title": "Mùa thu",
+      "content": "Lá vàng rơi trên phố\nGió thu se lạnh buồn\nNhớ người xa xôi\nTrong những chiều hoàng hôn"
+    },
+    {
+      "title": "Quê hương",
+      "content": "Quê hương tôi có\nNhững cánh đồng lúa vàng\nTiếng ru của mẹ\nVà ánh nắng ban mai"
+    },
+    {
+      "title": "Tuổi trẻ",
+      "content": "Tuổi trẻ như cơn mưa\nTràn đầy sức sống\nMang theo hy vọng\nVà những giấc mơ bay"
+    },
+    {
+      "title": "Tình bạn",
+      "content": "Tình bạn như ánh sao\nSáng trong đêm tối\nLuôn bên ta\nKhi cuộc đời gian khó"
+    },
+    {
+      "title": "Mẹ",
+      "content": "Mẹ là ánh nắng ấm\nLa lời ru êm dịu\nLà vòng tay yêu thương\nBao bọc con suốt đời"
+    },
+    {
+      "title": "Biển",
+      "content": "Biển xanh mênh mông\nSóng vỗ bờ cát trắng\nGió biển thổi nhẹ\nMang theo muối mặn"
+    },
+    {
+      "title": "Núi",
+      "content": "Núi cao chót vót\nMây trắng bồng bềnh\nTiếng chim hót líu lo\nEcho vang trong rừng"
+    },
+    {
+      "title": "Mưa",
+      "content": "Mưa rơi lặng lẽ\nTrên mái nhà cũ\nTiếng mưa ru buồn\nNhư lời mẹ hát"
+    },
+    {
+      "title": "Nắng",
+      "content": "Nắng vàng rực rỡ\nSưởi ấm trái tim\nMang đến hy vọng\nCho ngày mới bắt đầu"
+    },
+    {
+      "title": "Hoa",
+      "content": "Hoa nở rực rỡ\nTrong vườn xuân xanh\nThơm ngát hương hoa\nLàm say đắm lòng người"
+    },
+    {
+      "title": "Đêm",
+      "content": "Đêm về lặng lẽ\nSao trời lấp lánh\nÁnh trăng bạc\nSoi sáng con đường"
+    },
+    {
+      "title": "Sông",
+      "content": "Sông nước chảy xiết\nMang theo bao ký ức\nCủa những ngày xưa\nVà tình yêu đầu đời"
+    },
+    {
+      "title": "Gió",
+      "content": "Gió thổi nhẹ nhàng\nQua tóc em bay\nMang theo hương thơm\nCủa những đóa hoa"
+    },
+    {
+      "title": "Ước mơ",
+      "content": "Ước mơ như cánh chim\nBay cao trên bầu trời\nTự do và phóng khoáng\nKhông gì có thể cản"
+    }
+  ]
+}

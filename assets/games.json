@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Đoán số",
+    "description": "Bot nghĩ một số từ 1-10, bạn đoán xem!",
+    "answer": "random",
+    "type": "guess_number"
+  },
+  {
+    "name": "Kéo búa bao",
+    "description": "Trò chơi kinh điển kéo búa bao",
+    "options": ["kéo", "búa", "bao"],
+    "type": "rock_paper_scissors"
+  },
+  {
+    "name": "Tung xu",
+    "description": "Đoán mặt ngửa hay mặt sấp",
+    "options": ["ngửa", "sấp"],
+    "type": "coin_flip"
+  },
+  {
+    "name": "Xúc xắc may mắn",
+    "description": "Tung xúc xắc và xem kết quả",
+    "type": "dice_roll"
+  },
+  {
+    "name": "Đoán màu",
+    "description": "Đoán màu mà bot nghĩ",
+    "options": ["đỏ", "xanh", "vàng", "tím", "cam", "hồng"],
+    "type": "guess_color"
+  }
+]

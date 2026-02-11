@@ -1,0 +1,20 @@
+{
+  "bot": {
+    "cookie": [
+      {
+        "key": "zpsid",
+        "value": "your_zpsid_value_here",
+        "domain": ".zalo.me",
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "lax"
+      }
+    ],
+    "imei": "your_imei_value_here",
+    "userAgent": "your_user_agent_value_here",
+    "selfListen": false,
+    "checkUpdate": true,
+    "logging": true
+  }
+}

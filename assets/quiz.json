@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Thủ đô của Việt Nam là gì?",
+    "options": ["A. Hồ Chí Minh", "B. Hà Nội", "C. Đà Nẵng", "D. Cần Thơ"],
+    "answer": "B",
+    "explanation": "Hà Nội là thủ đô của Việt Nam từ năm 1010"
+  },
+  {
+    "question": "Ai là tác giả của tác phẩm 'Truyện Kiều'?",
+    "options": ["A. Nguyễn Du", "B. Hồ Xuân Hương", "C. Nguyễn Trãi", "D. Cao Bá Quát"],
+    "answer": "A",
+    "explanation": "Nguyễn Du là tác giả của 'Truyện Kiều', tác phẩm văn học kinh điển"
+  },
+  {
+    "question": "Đơn vị tiền tệ của Việt Nam là gì?",
+    "options": ["A. Dollar", "B. Euro", "C. Đồng", "D. Yen"],
+    "answer": "C",
+    "explanation": "Đồng Việt Nam (VND) là đơn vị tiền tệ chính thức"
+  },
+  {
+    "question": "Ngày Quốc khánh Việt Nam là ngày nào?",
+    "options": ["A. 30/4", "B. 2/9", "C. 19/5", "D. 1/1"],
+    "answer": "B",
+    "explanation": "2/9/1945 là ngày Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập"
+  },
+  {
+    "question": "Sông dài nhất Việt Nam là sông nào?",
+    "options": ["A. Sông Hồng", "B. Sông Mê Kông", "C. Sông Đồng Nai", "D. Sông Cả"],
+    "answer": "B",
+    "explanation": "Sông Mê Kông dài khoảng 4.350km, chảy qua nhiều nước"
+  },
+  {
+    "question": "1 + 1 = ?",
+    "options": ["A. 1", "B. 2", "C. 3", "D. 4"],
+    "answer": "B",
+    "explanation": "Phép cộng cơ bản: 1 + 1 = 2"
+  },
+  {
+    "question": "Hành tinh nào gần Mặt Trời nhất?",
+    "options": ["A. Sao Kim", "B. Trái Đất", "C. Sao Thủy", "D. Sao Hỏa"],
+    "answer": "C",
+    "explanation": "Sao Thủy là hành tinh gần Mặt Trời nhất trong hệ Mặt Trời"
+  },
+  {
+    "question": "Có bao nhiêu lục địa trên Trái Đất?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "C",
+    "explanation": "7 lục địa: Á-Âu, Châu Phi, Bắc Mỹ, Nam Mỹ, Châu Đại Dương, Nam Cực"
+  },
+  {
+    "question": "Động vật nào được gọi là 'vua của rừng'?",
+    "options": ["A. Hổ", "B. Sư tử", "C. Báo", "D. Voi"],
+    "answer": "B",
+    "explanation": "Sư tử được mệnh danh là 'vua của rừng' do sức mạnh và vị thế"
+  },
+  {
+    "question": "Màu nào tạo thành khi trộn đỏ và vàng?",
+    "options": ["A. Xanh", "B. Tím", "C. Cam", "D. Hồng"],
+    "answer": "C",
+    "explanation": "Đỏ + Vàng = Cam (màu thứ cấp trong bảng màu)"
+  },
+  {
+    "question": "Cơ quan nào trong cơ thể con người bơm máu?",
+    "options": ["A. Phổi", "B. Tim", "C. Gan", "D. Thận"],
+    "answer": "B",
+    "explanation": "Tim là cơ quan bơm máu đi khắp cơ thể"
+  },
+  {
+    "question": "Ngôn ngữ lập trình nào được tạo bởi Guido van Rossum?",
+    "options": ["A. Java", "B. Python", "C. C++", "D. JavaScript"],
+    "answer": "B",
+    "explanation": "Python được tạo bởi Guido van Rossum vào năm 1991"
+  },
+  {
+    "question": "Biển nào lớn nhất thế giới?",
+    "options": ["A. Biển Đông", "B. Biển Địa Trung Hải", "C. Biển Caspi", "D. Biển Đỏ"],
+    "answer": "C",
+    "explanation": "Biển Caspi là biển lớn nhất thế giới về diện tích"
+  },
+  {
+    "question": "Ai phát minh ra bóng đèn điện?",
+    "options": ["A. Thomas Edison", "B. Nikola Tesla", "C. Alexander Bell", "D. Albert Einstein"],
+    "answer": "A",
+    "explanation": "Thomas Edison phát minh bóng đèn điện thực用 năm 1879"
+  },
+  {
+    "question": "Loài động vật nào có thể sống lâu nhất?",
+    "options": ["A. Voi", "B. Rùa", "C. Cá voi", "D. Đại bàng"],
+    "answer": "B",
+    "explanation": "Một số loài rùa có thể sống hơn 100 năm"
+  },
+  {
+    "question": "Vitamin nào được tổng hợp khi da tiếp xúc ánh nắng?",
+    "options": ["A. Vitamin A", "B. Vitamin B", "C. Vitamin C", "D. Vitamin D"],
+    "answer": "D",
+    "explanation": "Vitamin D được tổng hợp khi da tiếp xúc với tia UV từ ánh nắng"
+  },
+  {
+    "question": "Quốc gia nào có diện tích lớn nhất thế giới?",
+    "options": ["A. Trung Quốc", "B. Mỹ", "C. Nga", "D. Canada"],
+    "answer": "C",
+    "explanation": "Nga có diện tích lớn nhất thế giới với 17,1 triệu km²"
+  },
+  {
+    "question": "Cầu vồng có bao nhiêu màu chính?",
+    "options": ["A. 5", "B. 6", "C. 7", "D. 8"],
+    "answer": "C",
+    "explanation": "Cầu vồng có 7 màu: đỏ, cam, vàng, lục, lam, chàm, tím"
+  },
+  {
+    "question": "Ai là người đầu tiên đặt chân lên Mặt Trăng?",
+    "options": ["A. Buzz Aldrin", "B. Neil Armstrong", "C. Yuri Gagarin", "D. John Glenn"],
+    "answer": "B",
+    "explanation": "Neil Armstrong là người đầu tiên đặt chân lên Mặt Trăng năm 1969"
+  },
+  {
+    "question": "Nước nào sản xuất cà phê nhiều nhất thế giới?",
+    "options": ["A. Việt Nam", "B. Colombia", "C. Brazil", "D. Ethiopia"],
+    "answer": "C",
+    "explanation": "Brazil là nước sản xuất cà phê nhiều nhất thế giới"
+  }
+]

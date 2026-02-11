@@ -1,0 +1,77 @@
+[
+  {
+    "stickerType": "STATIC",
+    "stickerId": "1",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC", 
+    "stickerId": "2",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "3", 
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "4",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "5",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "6",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "7",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "8",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "9",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "10",
+    "cateId": "1"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "11",
+    "cateId": "2"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "12",
+    "cateId": "2"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "13",
+    "cateId": "2"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "14",
+    "cateId": "2"
+  },
+  {
+    "stickerType": "STATIC",
+    "stickerId": "15",
+    "cateId": "2"
+  }
+]
